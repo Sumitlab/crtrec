@@ -3,5 +3,5 @@ Subdomain enumeration use bash scripting. Information pull out from crt.sh using
 use bash terminal for this tool because i work it on bash.
 
 
-CMD
+CMD =>
 bash ./crtrec.sh target.com
